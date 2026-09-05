@@ -1,0 +1,80 @@
+{
+  "file": "_posts/Anime/A Couple of Cuckoos/2022-04-26-Kakkou-no-Iinazuke.md",
+  "name": "A%20Couple%20of%20Cuckoos",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "layout",
+      "label": "Layout",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "tags",
+      "label": "Tags",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "eps",
+      "label": "Eps",
+      "type": "number",
+      "value": 0,
+      "isIgnored": false,
+      "defaultValue": 0
+    },
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "coverPhoto",
+      "label": "CoverPhoto",
+      "type": "media",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "category",
+      "label": "Category",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "category-link",
+      "label": "Category Link",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "epsname",
+      "label": "Epsname",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    }
+  ]
+}
