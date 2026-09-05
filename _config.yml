@@ -1,5 +1,5 @@
 site: Hunter Sekai
-url: https://huntersekai.github.io
+url: https://gudangtakarir.github.io/anidl
 title: Hunter Sekai
 description: Bebas Layaknya Awan~
 twitter:
@@ -15,7 +15,7 @@ author:
 permalink: pretty
 timezone: Asia/Jakarta
 
-baseurl: "https://huntersekai.github.io"
+baseurl: "https://gudangtakarir.github.io/anidl"
 
 highlighter: none
 
@@ -69,6 +69,6 @@ defaults:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: a-1fansub
+    shortname: gudangtakarir-anidl
 
 url: https://huntersekai.github.io
