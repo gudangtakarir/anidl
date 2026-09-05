@@ -2,16 +2,16 @@ links:
 - title: A-1 Fansub
   url: /
 - title: Anime
-  url: /anime
+  url: /anidl/anime
 - title: Manga
-  url: /manga
+  url: /anidl/manga
 - title: Arsip
-  url: /arsip
+  url: /anidl/arsip
 - title: Cari
-  url: /cari
+  url: /anidl/cari
 - title: Donasi
   url: https://trakteer.id/a-1fansub/tip
 - title: Takarir
   url: https://github.com/A-1Fansub/A-1Fansub-Takarir
 - title: Tentang
-  url: /tentang
+  url: /anidl/tentang
